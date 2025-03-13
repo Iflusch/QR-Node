@@ -1,0 +1,21 @@
+﻿{
+  "Name": "Mirror Booth - American Female",
+  "Video": true,
+  "Audio": false,
+  	"StartScreen": "01.touch-to-start.mp4",
+	"BeforeCountdown": [
+	  "02.get-ready.mp4",
+	  "03.say-cheese.mp4",
+	  "04.smile.mp4"
+	],
+	"AfterCapture": [
+	  "06.looking-good.mp4",
+	  "07.you-have-best-smile.mp4",
+	  "08.you-light-up.mp4",
+	  "09.do-you-model.mp4"
+	],
+	"SelectAnEffect": "",
+	"DuringProcessing": "11.processing_short.mp4",
+	"AfterProcessing": "",
+	"EndOfSession": ""
+}

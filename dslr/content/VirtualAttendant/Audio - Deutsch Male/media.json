@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Deutsche Male",
+  "Video": false,
+  "Audio": true,
+  "BeforeCountdown": [
+    "Achtung.get-ready.mp3",
+	"Bitte_Laecheln.smile.mp3",
+	"Cheese.say-cheese.mp3",
+	"Letztes_Mal.last-one.mp3"
+  ],
+  "DuringProcessing": "Wow_super.looking-good.mp3",
+  "SelectAnEffect": "Bildeffekt.select-an-effect.mp3",
+  "AfterProcessing": "Teilen_Drucken.share-your-photos.mp3",
+  "EndOfSession": "Danke.thank-you.mp3"
+}

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Template Name="Four poses, single strip (horizontal)" IsFavorite="False" Width="1800" Height="1200" Dimensions="0" Resolution="300" BackgroundColor="#FFFFFFFF" print_2_per_page="False" LastSavedDate="02/17/2017 13:04:13">
+  <Elements>
+    <Image Name="married-couple" Opacity="100" ShadowEnabled="False" ShadowColor="#FF000000" ShadowDepth="10" ShadowRadius="20" ShadowDirection="-45" Width="238" Height="384" Top="348" Left="793" ImagePath="married-couple.png" KeepAspect="True" Thickness="0" StrokeColor="#FF000000" ZIndex="5" />
+    <Image Name="instructions" Opacity="100" ShadowEnabled="False" ShadowColor="#FF000000" ShadowDepth="10" ShadowRadius="20" ShadowDirection="-45" Width="1719" Height="400" Top="790" Left="55" ImagePath="instructions.png" KeepAspect="True" Thickness="0" StrokeColor="#FF000000" ZIndex="4" />
+    <Photo Name="Photo 4" Opacity="100" ShadowEnabled="False" ShadowColor="#FF000000" ShadowDepth="10" ShadowRadius="20" ShadowDirection="-45" Width="900" Height="600" Top="600" Left="900" ImagePath="" KeepAspect="False" Thickness="0" StrokeColor="#FF000000" PhotoNumber="4" Rotation="0" ZIndex="3" />
+    <Photo Name="Photo 3" Opacity="100" ShadowEnabled="False" ShadowColor="#FF000000" ShadowDepth="10" ShadowRadius="20" ShadowDirection="-45" Width="900" Height="600" Top="600" Left="0" ImagePath="" KeepAspect="False" Thickness="0" StrokeColor="#FF000000" PhotoNumber="3" Rotation="0" ZIndex="2" />
+    <Photo Name="Photo 2" Opacity="100" ShadowEnabled="False" ShadowColor="#FF000000" ShadowDepth="10" ShadowRadius="20" ShadowDirection="-45" Width="900" Height="600" Top="0" Left="900" ImagePath="" KeepAspect="False" Thickness="0" StrokeColor="#FF000000" PhotoNumber="2" Rotation="0" ZIndex="1" />
+    <Photo Name="Photo 1" Opacity="100" ShadowEnabled="False" ShadowColor="#FF000000" ShadowDepth="10" ShadowRadius="20" ShadowDirection="-45" Width="900" Height="600" Top="0" Left="0" ImagePath="" KeepAspect="False" Thickness="0" StrokeColor="#FF000000" PhotoNumber="1" Rotation="0" ZIndex="0" />
+  </Elements>
+</Template>

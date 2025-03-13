@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Template Name="Two poses, double strip (horizontal)" Width="1800" Height="1200" BackgroundColor="#FFFFFFFF">
+  <Elements>
+    <Photo Name="Photo 1" Width="900" Height="600" Top="0" Left="0" ImagePath="" KeepAspect="False" Thickness="0" StrokeColor="#FF000000" PhotoNumber="1" Rotation="0" ZIndex="0" />
+    <Photo Name="Photo 2" Width="900" Height="600" Top="600" Left="0" ImagePath="" KeepAspect="False" Thickness="0" StrokeColor="#FF000000" PhotoNumber="2" Rotation="0" ZIndex="1" />
+    <Photo Name="Photo 1" Width="900" Height="600" Top="0" Left="900" ImagePath="" KeepAspect="False" Thickness="0" StrokeColor="#FF000000" PhotoNumber="1" Rotation="0" ZIndex="2" />
+    <Photo Name="Photo 2" Width="900" Height="600" Top="600" Left="900" ImagePath="" KeepAspect="False" Thickness="0" StrokeColor="#FF000000" PhotoNumber="2" Rotation="0" ZIndex="3" />
+  </Elements>
+</Template>

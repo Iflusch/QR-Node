@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Template Name="One Large, Three small (horizontal)" Width="1800" Height="1200" BackgroundColor="#FFFFFFFF">
+  <Elements>
+    <Photo Name="Photo 1" Width="1005" Height="670" Top="60" Left="130" ImagePath="" KeepAspect="False" Thickness="0" StrokeColor="#FF000000" PhotoNumber="1" Rotation="0" ZIndex="0" />
+    <Photo Name="Photo 2" Width="560" Height="373" Top="787" Left="40" ImagePath="" KeepAspect="False" Thickness="0" StrokeColor="#FF000000" PhotoNumber="2" Rotation="0" ZIndex="1" />
+    <Photo Name="Photo 3" Width="560" Height="373" Top="787" Left="620" ImagePath="" KeepAspect="False" Thickness="0" StrokeColor="#FF000000" PhotoNumber="3" Rotation="0" ZIndex="2" />
+    <Photo Name="Photo 4" Width="560" Height="373" Top="787" Left="1200" ImagePath="" KeepAspect="False" Thickness="0" StrokeColor="#FF000000" PhotoNumber="4" Rotation="0" ZIndex="3" />
+  </Elements>
+</Template>

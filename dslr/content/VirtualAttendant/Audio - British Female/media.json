@@ -1,0 +1,15 @@
+﻿{
+  "Name": "British Female",
+  "Video": false,
+  "Audio": true,  
+  "BeforeCountdown": [    
+	"get-ready.mp3",
+	"smile.mp3",
+	"say-cheese.mp3",
+	"last-one.mp3"
+  ],
+  "DuringProcessing": "looking-good.mp3",
+  "SelectAnEffect": "select-an-effect.mp3",
+  "AfterProcessing": "share-your-photos.mp3",
+  "EndOfSession": "thank-you.mp3"
+}

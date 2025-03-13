@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Template Name="One Pose, double strip (vertical)" Width="1200" Height="1800" BackgroundColor="#FFFFFFFF">
+  <Elements>
+    <Photo Name="Photo 1" Width="1200" Height="800" Top="0" Left="0" ImagePath="" KeepAspect="False" Thickness="0" StrokeColor="#FF000000" PhotoNumber="1" Rotation="0" ZIndex="0" />
+    <Photo Name="Photo 1" Width="1200" Height="800" Top="1000" Left="0" ImagePath="" KeepAspect="False" Thickness="0" StrokeColor="#FF000000" PhotoNumber="1" Rotation="0" ZIndex="1" />
+  </Elements>
+</Template>

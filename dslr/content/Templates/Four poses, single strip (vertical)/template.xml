@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Template Name="Four poses, single strip (vertical)" Width="1200" Height="1800" BackgroundColor="#FFFFFFFF">
+  <Elements>
+    <Photo Name="Photo 1" Width="600" Height="900" Top="0" Left="0" ImagePath="" KeepAspect="False" Thickness="0" StrokeColor="#FF000000" PhotoNumber="1" Rotation="0" ZIndex="0" />
+    <Photo Name="Photo 2" Width="600" Height="900" Top="0" Left="600" ImagePath="" KeepAspect="False" Thickness="0" StrokeColor="#FF000000" PhotoNumber="2" Rotation="0" ZIndex="1" />
+    <Photo Name="Photo 3" Width="600" Height="900" Top="900" Left="0" ImagePath="" KeepAspect="False" Thickness="0" StrokeColor="#FF000000" PhotoNumber="3" Rotation="0" ZIndex="2" />
+    <Photo Name="Photo 4" Width="600" Height="900" Top="900" Left="600" ImagePath="" KeepAspect="False" Thickness="0" StrokeColor="#FF000000" PhotoNumber="4" Rotation="0" ZIndex="3" />
+  </Elements>
+</Template>

@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Deutsche Female",
+  "Video": false,
+  "Audio": true,  
+  "BeforeCountdown": [  
+	"02.achtung_jetzt_gehts_los.mp3",
+	"12.bitte_lächeln.mp3",
+	"03.cheeeeese.mp3",
+	"06.ein_letztes_mal.mp3"
+  ],
+  "DuringProcessing": "07.wow_sieht_super_aus.mp3",
+  "SelectAnEffect": "11.wähle_einen_effekt_für_dein_bild_aus.mp3",
+  "AfterProcessing": "08.teile_dein_bild_oder_drucke_es_dir_aus.mp3",
+  "EndOfSession": "09.vielen_dank.mp3"
+}

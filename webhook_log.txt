@@ -1,0 +1,820 @@
+Time: 2025-02-04T00:27:04.769Z
+Order ID: payment_notif_test_G129829221_a775d54f-3e67-427e-b372-e553b53c4685
+Status: settlement
+Fraud Status: accept
+Amount: 105000.00
+
+Time: 2025-02-04T00:27:55.521Z
+Order ID: payment_notif_test_G129829221_11f4f776-d59b-407f-986c-37cb23e2d874
+Status: settlement
+Fraud Status: accept
+Amount: 105000.00
+
+Time: 2025-02-04T00:28:40.377Z
+Order ID: order-1738628919379
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T00:31:04.518Z
+Order ID: order-1738629063427
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T00:33:27.674Z
+Order ID: order-1738629205817
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T00:41:17.424Z
+Order ID: order-1738629676029
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T00:47:01.856Z
+Order ID: order-1738630020211
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T00:47:05.792Z
+Order ID: order-1738629063427
+Status: expire
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T00:48:18.799Z
+Order ID: order-1738630097860
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T00:49:09.930Z
+Order ID: order-1738630097860
+Status: settlement
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T00:49:26.827Z
+Order ID: order-1738629205817
+Status: expire
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T01:02:53.722Z
+Order ID: order-1738630972185
+Status: pending
+Fraud Status: accept
+Amount: 15000.00
+
+Time: 2025-02-04T01:02:57.426Z
+Order ID: order-1738629676029
+Status: expire
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T01:03:02.760Z
+Order ID: order-1738630020211
+Status: expire
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T01:05:19.045Z
+Order ID: order-1738631118103
+Status: pending
+Fraud Status: accept
+Amount: 15000.00
+
+Time: 2025-02-04T01:07:44.859Z
+Order ID: order-1738631263562
+Status: pending
+Fraud Status: accept
+Amount: 15000.00
+
+Time: 2025-02-04T01:12:10.077Z
+Order ID: order-1234567890
+Status: pending
+Fraud Status: accept
+Amount: 15000
+
+Time: 2025-02-04T01:16:16.916Z
+Order ID: order-1738631776020
+Status: pending
+Fraud Status: accept
+Amount: 15000.00
+
+Time: 2025-02-04T01:18:53.880Z
+Order ID: order-1738630972185
+Status: expire
+Fraud Status: accept
+Amount: 15000.00
+
+Time: 2025-02-04T01:21:18.114Z
+Order ID: order-1738631118103
+Status: expire
+Fraud Status: accept
+Amount: 15000.00
+
+Time: 2025-02-04T01:23:45.001Z
+Order ID: order-1738631263562
+Status: expire
+Fraud Status: accept
+Amount: 15000.00
+
+Time: 2025-02-04T01:24:32.466Z
+Order ID: order-1738632271461
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T01:25:57.454Z
+Order ID: order-1738632356505
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T01:27:28.937Z
+Order ID: order-1738632447625
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T01:29:18.911Z
+Order ID: order-1738632557918
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T01:37:19.904Z
+Order ID: order-1738633038645
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T01:38:08.236Z
+Order ID: order-1738633087112
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T01:38:52.974Z
+Order ID: order-1738633131520
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T01:43:51.691Z
+Order ID: order-1738633430221
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T01:44:27.162Z
+Order ID: order-1738633466032
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T01:45:17.987Z
+Order ID: order-1738632557918
+Status: expire
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T01:45:28.553Z
+Order ID: order-1738632447625
+Status: expire
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T01:46:42.523Z
+Order ID: order-1738633601369
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T01:47:46.304Z
+Order ID: order-1738632271461
+Status: expire
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T01:47:46.744Z
+Order ID: order-1738632356505
+Status: expire
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T01:48:23.385Z
+Order ID: order-1738633702440
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T01:48:44.207Z
+Order ID: order-1738633722760
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T01:49:32.790Z
+Order ID: order-1738633771684
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T01:51:03.740Z
+Order ID: order-1738633862124
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T01:53:20.864Z
+Order ID: order-1738633038645
+Status: expire
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T01:54:09.158Z
+Order ID: order-1738633087112
+Status: expire
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T01:54:54.021Z
+Order ID: order-1738633131520
+Status: expire
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T01:59:51.778Z
+Order ID: order-1738633430221
+Status: expire
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T02:06:39.404Z
+Order ID: order-1738634798540
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T02:07:07.104Z
+Order ID: order-1738634825573
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T02:07:44.426Z
+Order ID: order-1738633771684
+Status: expire
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T02:07:45.097Z
+Order ID: order-1738633862124
+Status: expire
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T02:07:58.264Z
+Order ID: order-1738634877308
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T02:12:40.367Z
+Order ID: order-1738635159081
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T02:13:25.355Z
+Order ID: order-1738633702440
+Status: expire
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T02:14:18.565Z
+Order ID: order-1738635257225
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T02:15:07.620Z
+Order ID: order-1738635306076
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T02:16:16.602Z
+Order ID: order-1738635375663
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T02:17:09.566Z
+Order ID: order-1738635428551
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T02:19:34.079Z
+Order ID: order-1738635573066
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T02:20:00.930Z
+Order ID: order-1738635599455
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T02:20:17.239Z
+Order ID: order-1738635616234
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T02:21:49.724Z
+Order ID: order-1738635708891
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T02:24:48.802Z
+Order ID: order-1738635887812
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T02:25:22.658Z
+Order ID: order-1738635887812
+Status: settlement
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T02:28:57.197Z
+Order ID: order-1738636135993
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T13:31:40.793Z
+Order ID: order-1738675899464
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T13:42:47.252Z
+Order ID: order-1738676565786
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T13:44:57.387Z
+Order ID: order-1738676696166
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T13:45:59.759Z
+Order ID: order-1738676758527
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T13:46:32.826Z
+Order ID: order-1738676791850
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T13:47:20.454Z
+Order ID: order-1738676838919
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T13:47:41.817Z
+Order ID: order-1738675899464
+Status: expire
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T13:50:33.292Z
+Order ID: order-1738677032512
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T13:51:37.409Z
+Order ID: order-1738677032512
+Status: settlement
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T13:56:21.998Z
+Order ID: order-1738677381047
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T13:58:09.422Z
+Order ID: order-1738677488499
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T13:59:25.720Z
+Order ID: order-1738677564782
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:02:32.165Z
+Order ID: order-1738677751105
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:02:32.645Z
+Order ID: order-1738676791850
+Status: expire
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:02:55.274Z
+Order ID: order-1738677774280
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:04:37.704Z
+Order ID: order-1738677875980
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:07:31.960Z
+Order ID: order-1738678050948
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:09:05.565Z
+Order ID: order-1738676838919
+Status: expire
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:11:07.962Z
+Order ID: order-1738678266676
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:11:41.114Z
+Order ID: order-1738676758527
+Status: expire
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:12:23.610Z
+Order ID: order-1738677381047
+Status: expire
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:13:26.358Z
+Order ID: order-1738678405425
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:14:08.514Z
+Order ID: order-1738677488499
+Status: expire
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:14:51.674Z
+Order ID: order-1738678490821
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:15:26.775Z
+Order ID: order-1738677564782
+Status: expire
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:17:56.406Z
+Order ID: order-1738678675496
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:17:56.586Z
+Order ID: order-1738678675491
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:18:32.469Z
+Order ID: order-1738677751105
+Status: expire
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:18:56.488Z
+Order ID: order-1738677774280
+Status: expire
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:18:57.125Z
+Order ID: order-1738678736332
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:18:57.706Z
+Order ID: order-1738678736327
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:19:53.500Z
+Order ID: order-1738678490821
+Status: settlement
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:20:38.754Z
+Order ID: order-1738677875980
+Status: expire
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:21:03.458Z
+Order ID: order-1738678862618
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:23:32.554Z
+Order ID: order-1738678050948
+Status: expire
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:23:39.052Z
+Order ID: order-1738679018356
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:23:39.433Z
+Order ID: order-1738679018353
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:27:09.047Z
+Order ID: order-1738678266676
+Status: expire
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:31:04.604Z
+Order ID: order-1738679463760
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:31:21.430Z
+Order ID: order-1738678405425
+Status: expire
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:31:34.021Z
+Order ID: order-1738679492804
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:31:34.245Z
+Order ID: order-1738679492810
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:32:49.497Z
+Order ID: order-1738679463760
+Status: settlement
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:33:56.504Z
+Order ID: order-1738678675496
+Status: expire
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:33:56.541Z
+Order ID: order-1738678675491
+Status: expire
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:34:56.614Z
+Order ID: order-1738678736332
+Status: expire
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:34:56.724Z
+Order ID: order-1738678736327
+Status: expire
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:36:41.537Z
+Order ID: order-1738679800592
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:36:41.667Z
+Order ID: order-1738679800597
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:37:02.514Z
+Order ID: order-1738678862618
+Status: expire
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:37:19.698Z
+Order ID: order-1738679838880
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:37:20.048Z
+Order ID: order-1738679838878
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:38:51.428Z
+Order ID: order-1738679929611
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:39:38.450Z
+Order ID: order-1738679018356
+Status: expire
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:39:38.482Z
+Order ID: order-1738679018353
+Status: expire
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:39:43.838Z
+Order ID: order-1738679982871
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:39:44.194Z
+Order ID: order-1738679982865
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:42:02.321Z
+Order ID: order-1738680120864
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:47:32.414Z
+Order ID: order-1738679492810
+Status: expire
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:47:32.589Z
+Order ID: order-1738679492804
+Status: expire
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:47:39.736Z
+Order ID: order-1738680458467
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:47:39.824Z
+Order ID: order-1738680458461
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:47:41.376Z
+Order ID: order-1738680460457
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:47:41.394Z
+Order ID: order-1738680460473
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:48:19.636Z
+Order ID: order-1738680120864
+Status: settlement
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:49:52.745Z
+Order ID: order-1738680591066
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:50:11.736Z
+Order ID: order-1738680591066
+Status: settlement
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:51:23.156Z
+Order ID: order-1738680679870
+Status: pending
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-04T14:51:44.471Z
+Order ID: order-1738680679870
+Status: settlement
+Fraud Status: accept
+Amount: 10000.00
+
+Time: 2025-02-06T05:42:28.619Z
+Order ID: order-1738820546821
+Status: pending
+Amount: 10000.00
+
+Time: 2025-02-06T05:43:03.081Z
+Order ID: order-1738820546821
+Status: settlement
+Amount: 10000.00
+
+Time: 2025-02-06T05:46:35.759Z
+Order ID: order-1738820794012
+Status: pending
+Amount: 10000.00
+
+Time: 2025-02-06T05:46:58.017Z
+Order ID: order-1738820794012
+Status: settlement
+Amount: 10000.00
+
+Time: 2025-02-06T05:48:21.804Z
+Order ID: order-1738820378623
+Status: pending
+Amount: 10000.00
+
+Time: 2025-02-06T05:51:36.632Z
+Order ID: order-1738820135585
+Status: expire
+Amount: 10000.00
+
+Time: 2025-02-06T05:53:15.981Z
+Order ID: order-1738821194765
+Status: pending
+Amount: 10000.00
+
+Time: 2025-02-06T05:53:40.895Z
+Order ID: order-1738821194765
+Status: settlement
+Amount: 10000.00
+

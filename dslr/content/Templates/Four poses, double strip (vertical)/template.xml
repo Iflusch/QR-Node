@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Template Name="Four poses, double strip (vertical)" Width="1200" Height="1800" BackgroundColor="#FFFFFFFF">
+  <Elements>
+    <Photo Name="Photo 1" Width="600" Height="400" Top="0" Left="0" ImagePath="" KeepAspect="False" Thickness="0" StrokeColor="#FF000000" PhotoNumber="1" Rotation="0" ZIndex="0" />
+    <Photo Name="Photo 2" Width="600" Height="400" Top="400" Left="0" ImagePath="" KeepAspect="False" Thickness="0" StrokeColor="#FF000000" PhotoNumber="2" Rotation="0" ZIndex="1" />
+    <Photo Name="Photo 3" Width="600" Height="400" Top="800" Left="0" ImagePath="" KeepAspect="False" Thickness="0" StrokeColor="#FF000000" PhotoNumber="3" Rotation="0" ZIndex="2" />
+    <Photo Name="Photo 4" Width="600" Height="400" Top="1200" Left="0" ImagePath="" KeepAspect="False" Thickness="0" StrokeColor="#FF000000" PhotoNumber="4" Rotation="0" ZIndex="3" />
+    <Photo Name="Photo 1" Width="600" Height="400" Top="0" Left="600" ImagePath="" KeepAspect="False" Thickness="0" StrokeColor="#FF000000" PhotoNumber="1" Rotation="0" ZIndex="4" />
+    <Photo Name="Photo 2" Width="600" Height="400" Top="400" Left="600" ImagePath="" KeepAspect="False" Thickness="0" StrokeColor="#FF000000" PhotoNumber="2" Rotation="0" ZIndex="5" />
+    <Photo Name="Photo 3" Width="600" Height="400" Top="800" Left="600" ImagePath="" KeepAspect="False" Thickness="0" StrokeColor="#FF000000" PhotoNumber="3" Rotation="0" ZIndex="6" />
+    <Photo Name="Photo 4" Width="600" Height="400" Top="1200" Left="600" ImagePath="" KeepAspect="False" Thickness="0" StrokeColor="#FF000000" PhotoNumber="4" Rotation="0" ZIndex="7" />
+    <Image Name="sample_foreground_vertical" Width="1200" Height="1800" Top="0" Left="0" ImagePath="sample_foreground_vertical.png" KeepAspect="True" Thickness="0" StrokeColor="#FF000000" ZIndex="8" />
+  </Elements>
+</Template>
