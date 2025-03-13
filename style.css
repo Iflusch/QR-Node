@@ -1,0 +1,198 @@
+
+        @font-face {
+            font-family: 'Six Hand Rough';
+            src: url('SixHandRough.ttf') format('truetype');
+            font-weight: normal;
+            font-style: normal;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html, body {
+            width: 1920px;
+            height: 1080px;
+            overflow: hidden;
+            font-family: Arial, sans-serif;
+        }
+
+        .halaman {
+            width: 1920px;
+            height: 1080px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            background-size: cover;
+            background-position: center;
+            position: relative;
+        }
+
+        #halaman1 {
+            background-image: url('bg1.png');
+        }
+
+        #halaman2 {
+            background-image: url('bg2.png');
+        }
+
+        #halaman3 {
+            background-image: url('bg3.png');
+        }
+
+        .btn-custom {
+            padding: 20px 40px;
+            border-radius: 10px;
+            font-size: 2rem;
+            font-weight: bold;
+            color: #333;
+            border: none;
+            cursor: pointer;
+            transition: 0.3s;
+            position: absolute;
+        }
+
+        #btnMulai {
+            top: 720.1px;  
+            left: 600.6px;
+            background-color: rgba(215, 208, 205, 0.8); /* Warna tombol dengan transparansi */
+            width: 265.4px;
+            height: 107.5px;
+            border-radius: 51px; /* Membuat tombol dengan sudut lebih melengkung */
+            font-family: 'Six Hand Rough', sans-serif;/* Ganti font */
+            font-size: 65px; /* Ukuran font */
+            font-weight: bold; /* Tebalkan font */
+            color: #660000; /* Warna teks */
+            letter-spacing: 10px;
+            text-align: center; /* Agar teks berada di tengah */
+            display: flex; /* Flexbox untuk menyejajarkan teks */
+            justify-content: center; /* Menjajarkan teks secara horizontal */
+            align-items: center; /* Menjajarkan teks secara vertikal */
+            cursor: pointer;
+            transition: 0.3s ease; /* Transisi saat hover */
+        }
+
+        #btnMulai:hover {
+            background-color: rgba(255, 165, 0, 0.8); 
+            transform: scale(1.05); 
+        }
+
+        /* Posisi dan styling tombol di halaman 2 */
+        #btnCekStatus {
+            top: 937.5px;
+            left: 24.6px;
+            background-color: rgba(215, 208, 205, 0.8); /* Ubah warna tombol */
+            width: 268.5;
+            height: 107.5px;
+            border-radius: 51px; /* Membuat tombol dengan sudut lebih melengkung */
+            font-family: 'Six Hand Rough', sans-serif;/* Ganti font */
+            font-size: 55px;
+            color: #660000;
+            letter-spacing: 5px;
+            text-align: center;
+            display: flex; /* Flexbox untuk menyejajarkan teks */
+            justify-content: center; /* Menjajarkan teks secara horizontal */
+            align-items: center; /* Menjajarkan teks secara vertikal */
+            cursor: pointer;
+        }
+        #btnCekStatus:hover {
+            background-color: rgba(255, 165, 0, 0.8); /* Ubah warna saat hover */
+            transform: scale(1.05); /* Menambah sedikit ukuran saat hover */
+        }
+
+        /* Posisi dan styling tombol di halaman 3 */
+        #btnKembali {
+            top: 615.8px;
+            left: 776.9px;
+            background-color: rgba(215, 208, 205, 0.8); /* Ubah warna tombol */
+            width: 366.2px;
+            height: 104.2px;
+            border-radius: 51px; /* Membuat tombol dengan sudut lebih melengkung */
+            font-family: 'Six Hand Rough', sans-serif;/* Ganti font */
+            font-size: 55px;
+            color: #660000;
+            letter-spacing: 5px; /* Atur sesuai kebutuhan */
+            text-align: center;
+            display: flex; /* Flexbox untuk menyejajarkan teks */
+            justify-content: center; /* Menjajarkan teks secara horizontal */
+            align-items: center; /* Menjajarkan teks secara vertikal */
+            cursor: pointer;
+        }
+
+        #btnKembali:hover {
+            background-color: rgba(255, 165, 0, 0.8); /* Ubah warna saat hover */
+            transform: scale(1.05); /* Menambah sedikit ukuran saat hover */
+        }
+
+        /* Jam */
+        #clock {
+            font-size: 3rem;
+            font-weight: bold;
+            color: white;
+            margin-bottom: 20px;
+            position: absolute;
+            top: 50px;
+            left: 50px;
+        }
+
+        /* Status label */
+        #statusLabel {
+            position: absolute;
+            top: 800px;
+            left: 50px;
+            font-family: 'Six Hand Rough', sans-serif;/* Ganti font */
+            font-size: 55px;
+            color: #660000;
+            letter-spacing: 5px; /* Atur sesuai kebutuhan */
+            text-align: center;
+        }
+
+        #qrcode {
+            width: 520.6px;  /* Ukuran yang diinginkan */
+            height: 520.6px;
+            object-fit: contain; /* Memastikan gambar tidak terpotong */
+            position: absolute;
+            left: 700px;
+            top: 350px;
+        }
+
+        #btnClose {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            background-color: transparent;
+            border: none;
+            color: rgba(215, 208, 205, 0.8);
+            font-size: 3rem;
+            font-weight: bold;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+
+        #btnClose:hover {
+            color: red;
+        }
+
+        .loading {
+        text-align: center;
+        display: block;
+        margin-bottom: 20px;
+        }
+
+        .spinner {
+            border: 4px solid #f3f3f3; 
+            border-top: 4px solid #660000; 
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            animation: spin 2s linear infinite;
+            margin: auto;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
